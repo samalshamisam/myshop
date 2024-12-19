@@ -1,0 +1,45 @@
+.criativo{
+    
+    /* background:   #1f3e38ff ;  */
+    background-color: #1e1e2f;
+    margin-top: 50px;
+    margin-bottom: -16px !important;
+   }
+  
+   .criativo .contenier{
+       display: block;
+       text-align: center;
+       padding-top: 20px;
+       z-index: 1;
+       position: relative;
+   }
+   .criativo .contenier .ds h1{
+      
+       color: #ffdd40;
+       font-size: 55px;
+       letter-spacing: 2px;
+   }
+   .criativo .contenier .ds p{
+       display: flex;
+       justify-content: center;
+       color: white;
+       margin-top: -13px;
+       font-size: 10px;
+       letter-spacing: 5px;
+   }
+ 
+   
+   .criativo .contenier .p p{
+       padding-top: 40px;
+       padding-bottom: 24px;
+       color: #ffffffc7;
+       padding-bottom: 40px;
+       /* padding-right: 400px;
+       padding-left: 400px */
+   }
+   .criativo .contenier .a a{
+    padding: 25px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}

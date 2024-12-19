@@ -1,0 +1,83 @@
+/* div{
+    display: flex;
+        align-items: center;
+        justify-content: center;
+       position: relative;
+       top: 50px;
+        width: 100%;
+
+} */
+.aa{
+    display: flex ;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+ }
+.f {
+    width: 600px;
+    border-radius: 35px;
+    padding: 25px;
+    box-shadow: 0 2px 15px rgb(0 0 0 / 10%);
+    display: flex ;
+    align-items: center;
+    justify-content: center;
+    
+}
+form{
+    background-color: #fff;
+    box-sizing: border-box;
+   width: 70% !important;
+    height: auto; 
+        color: red;
+    
+}
+form input,
+form textarea,
+form select{
+    width: 100%;
+   
+    background-color: #fff;
+    border: 1px solid #777;
+    padding: 10px ;
+    margin: 20px 0px;
+    border-radius: 8px;
+    color: #333;
+    font-size: 17px;
+    outline: none;
+
+}
+
+
+form button{
+   background-color: rgb(44, 65, 252);
+    height: 60px;
+  
+    border-radius: 25px !important;
+
+    margin-top: 10px;
+    width: 100%;
+    max-width: 100%;
+    color: #ffffff;
+    font-size: 18px;
+    border: 1px solid #ffffff;
+    
+    /* margin-left: 22px; */
+
+}
+form button:hover{
+    background-color: rgb(57, 54, 255);
+    
+    transition: .3s ease-in-out;
+}
+.success{
+    color: red;
+}
+.fa{
+color: green !important;
+}
+.fs{
+    color: red;
+}
+.error{
+    color: red;
+}
