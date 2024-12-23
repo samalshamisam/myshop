@@ -1,6 +1,6 @@
 import React from 'react'
 import {useLoaderData} from 'react-router-dom';
-import "./products.css";
+import "./product.css";
 import { useDispatch } from 'react-redux';
 import { addToCart } from '../redux/appSilce';
 const Products =() => {

@@ -55,6 +55,7 @@ margin: 10px 0 0;
   width: 100%;
   height: auto;
     transition: 0.4s;
+    place-items: center;
 }
 .product-card:hover{
     transform: translateY(-10px);
@@ -72,7 +73,6 @@ margin: 10px 0 0;
 .product-card .image {
    width:200px !important;
    height:200px !important;
-   padding-left: 20px;
    align-items: center;
    justify-content: center;
    display: grid;
